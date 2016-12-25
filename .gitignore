@@ -1,0 +1,4 @@
+docs/
+*.log
+*.js
+*.d.ts
